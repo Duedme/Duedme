@@ -51,6 +51,6 @@ NOTE: Top languages does not indicate my skill level or something like that, it'
 <code><a href = "https://git-scm.com/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></a></code>
 <br>
 <code><a href = "https://www.python.org/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></a></code>
-<code><a href = "https://www.rust-lang.org/"><img height="40" src="https://github.com/Duedme/DUEDME/blob/Simple/images/rust-logo-blk.svg"></a></code>
-<code><a href = "https://solidity-es.readthedocs.io/es/latest/"><img height="40" src="https://github.com/Duedme/DUEDME/blob/Simple/images/solidity.jpeg"></a></code>
+<code><a href = "https://www.rust-lang.org/"><img height="40" src="https://github.com/Duedme/Duedme/blob/main/images/rust-logo-blk.svg"></a></code>
+<code><a href = "https://solidity-es.readthedocs.io/es/latest/"><img height="40" src="https://github.com/Duedme/Duedme/blob/main/images/solidity.jpeg"></a></code>
 </p>
